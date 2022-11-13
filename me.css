@@ -1,0 +1,276 @@
+header h1 {
+    color: #DC3C41;
+    padding: 10px;
+    border: #DC3C41 3px dashed;
+    width: 160px;
+    margin: 30px 0px 30px 30px;
+}
+
+.t a {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 65px 0px 65px;
+    background-color: #DC3C41;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+section {
+    background-color: #FAF5F0;
+    height: 700px;
+    width: 800px;
+    margin: 0px 0px 0px 350px;
+
+}
+
+.pud {
+    height: 350px;
+    width: 350px;
+    margin: 20px 30px 0px 50px;
+    border: #DC3C41 10px solid;
+    border-radius: 12px;
+    float: left;
+    transform: none;
+}
+
+.tit {
+    font-size: 25px;
+    margin: 50px 100px 0px 50px;
+    padding: 20px;
+    color: #DC3C41;
+    text-shadow: #192332 2px 1px;
+    font-family: monospace;
+}
+
+section p {
+    font-size: 20px;
+    color: #DC3C41;
+    text-shadow: #192332 1px 1px;
+    font-family: monospace;
+    text-align: left;
+}
+
+section h1 {
+    font-size: 28px;
+    text-align: center;
+    background-color: white;
+    margin: 50px 0px 20px 0px;
+    font-family: Brush Script MT;
+}
+
+section h2 {
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    font-family: cursive;
+}
+
+.w {
+    color: black;
+    font-size: 18px;
+    text-shadow: none;
+    font-family: cursive;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    margin: 30px 105px;
+}
+
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -999;
+}
+
+.bg img {
+    min-height: 100%;
+    width: 100%;
+}
+
+.m {
+    font-size: 25px;
+    margin: 50px 100px 0px 50px;
+    padding: 20px;
+}
+
+.school img {
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+    overflow: hidden;
+    transform: scale(1, 1);
+    transition: all 1s ease-out;
+    border: #192332 3px dashed;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.school img:hover {
+    transform: scale(1.2, 1.2);
+}
+
+.word {
+    color: #DC3C41;
+    font-size: 20px;
+    font-family: monospace;
+    text-shadow: none;
+    background-color: white;
+    display: inline-block;
+    padding: 0px 58px;
+}
+
+.word:hover {
+    color: #235AAA;
+    background-color: #FAF5F0;
+}
+
+.two {
+    background-color: #FAF5F0;
+    height: 400px;
+    width: 800px;
+    margin: 0px 0px 0px 350px;
+}
+
+.g {
+    margin: 0px 100px;
+    width: 600px;
+    height: 20px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #DC3C41, #235AAA 55%, transparent 0);
+    border: 1px solid #192332;
+    color: #FAF5F0;
+    text-align: center;
+}
+
+.g1 {
+    margin: 0px 100px;
+    width: 600px;
+    height: 20px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #DC3C41, #235AAA 65%, transparent 0);
+    border: 1px solid #192332;
+    color: #FAF5F0;
+    text-align: center;
+}
+
+.g2 {
+    margin: 0px 100px;
+    width: 600px;
+    height: 20px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #DC3C41, #235AAA 60%, transparent 0);
+    border: 1px solid #192332;
+    color: #FAF5F0;
+    text-align: center;
+}
+
+.p-name {
+    margin: 30px 100px 0px;
+    text-align: left;
+    text-shadow: none;
+    font-size: 25px;
+    color: #192332;
+}
+
+.three {
+    background-color: #FAF5F0;
+    height: 450px;
+    width: 800px;
+    margin: 0px 0px 0px 350px;
+}
+
+.four {
+    background-color: #FAF5F0;
+    height: 1400px;
+    width: 800px;
+    margin: 0px 0px 0px 350px;
+}
+
+.cos {
+    margin: 0px 40px 50px 80px;
+}
+
+.cos img {
+    height: 165px;
+    width: 165px;
+}
+
+.cos-name {
+    text-shadow: none;
+    font-size: 25px;
+    color: #192332;
+    text-align: center;
+    background-color: white;
+}
+
+.game {
+    margin: 0px 40px 50px 80px;
+}
+
+.game img {
+    height: 200px;
+    width: 335px;
+}
+
+.other {
+    margin: 0px 40px 50px 80px;
+}
+
+.other img {
+    height: 580px;
+    width: 335px;
+}
+
+.story {
+    margin: 0px 40px 50px 50px;
+}
+
+.story img {
+    height: 230px;
+    width: 355px;
+    float: left;
+}
+
+
+.s {
+    text-align: left;
+    text-shadow: none;
+    color: black;
+    text-align: center;
+}
+
+video {
+    width: 355px;
+    height: 260px;
+    float: right;
+}
+
+.five {
+    background-color: #FAF5F0;
+    height: 650px;
+    width: 800px;
+    margin: 0px 0px 0px 350px;
+}
+
+footer {
+    background-color: #235AAA;
+    height: 30px;
+}
+
+footer p {
+    text-align: center;
+    color: #FAF5F0;
+}
